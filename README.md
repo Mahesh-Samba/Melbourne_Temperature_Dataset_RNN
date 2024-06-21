@@ -1,1 +1,2 @@
 # Melbourne_Temperature_Dataset_RNN
+I utilized an RNN on the Daily Minimum Temperatures in Melbourne dataset to predict future temperatures. The dataset was normalized and prepared for time series analysis. A SimpleRNN model was built and trained, showing good performance with a clear loss reduction over epochs. Predictions were made on both training and testing data, achieving an RMSE of around 2.2. Finally, results were visualized to compare the true data against the predictions
